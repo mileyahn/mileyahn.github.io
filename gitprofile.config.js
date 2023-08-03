@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'mileyahn', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -33,35 +33,20 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'python',
+    'C',
+    'C++',
+    'Java',
+    'Pytorch',
+    'tensorflow'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Seoul National University',
+      position: "The master's course",
+      from: 'March 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://thunder.snu.ac.kr/',
     },
   ],
   /* certifications: [
@@ -74,16 +59,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'Seoul National University',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2023',
+      to: 'present',
     },
     {
-      institution: 'Institution Name',
+      institution: 'Sungkyunkwan University',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      from: '2019',
+      to: '2023',
     },
   ],
 
