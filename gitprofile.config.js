@@ -11,22 +11,22 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://mileyahn.github.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'mileya@snu.ac.kr',
   },
   resume: {
     fileUrl:
@@ -60,13 +60,13 @@ const config = {
   education: [
     {
       institution: 'Seoul National University',
-      degree: 'Degree',
+      degree: 'Data Science',
       from: '2023',
       to: 'present',
     },
     {
       institution: 'Sungkyunkwan University',
-      degree: 'Degree',
+      degree: 'Applied Artificial Intelligence',
       from: '2019',
       to: '2023',
     },
@@ -104,7 +104,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
