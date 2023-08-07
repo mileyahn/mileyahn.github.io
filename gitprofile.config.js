@@ -43,7 +43,7 @@ const config = {
   experiences: [
     {
       company: 'Seoul National University',
-      position: "The master's course",
+      position: "Master Student",
       from: 'March 2023',
       to: 'Present',
       companyLink: 'https://thunder.snu.ac.kr/',
@@ -61,7 +61,7 @@ const config = {
     {
       institution: 'Seoul National University',
       degree: 'Data Science',
-      from: '2023',
+      from: 'March 2023',
       to: 'present',
     },
     {
